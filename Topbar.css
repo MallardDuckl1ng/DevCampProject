@@ -1,0 +1,73 @@
+.nav-pages {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    background-color: black;
+    grid-gap: 100px;
+    padding: 15px 10px;
+    border: 0px;
+}
+.bottom-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:aliceblue;
+    font-family: Lato, sans-serif;
+    font-weight: bolder;
+    font-size: 1.15em;
+}
+.CPlogo {
+    width: 350px;
+}
+.explore {
+    align-items: baseline;
+    padding-bottom: 15px;
+    color: yellow;
+    font-family: Roboto, sans-serif;
+    font-weight: lighter;
+}
+.drop-down {
+    padding-left: 20px;
+    color: grey;
+}
+.create {
+    background-color: rgb(42, 48, 53);
+    color: aliceblue;
+    width: 150px;
+    height: 65px;
+    font-size: larger;
+    font-family: Lato, sans-serif;
+    border-radius: 8px;
+}
+.btns {
+    width: 425px;
+    display: flex;
+    justify-content: space-between;
+}
+.create2 {
+    background-color: rgb(42, 48, 53);
+    color: aliceblue;
+    width: 100px;
+    height: 65px;
+    font-size: larger;
+    font-family: Lato, sans-serif;
+    border-radius: 8px;
+}
+.create3 {
+    background-color: rgb(42, 48, 53);
+    color: aliceblue;
+    width: 125px;
+    height: 65px;
+    font-size: larger;
+    font-family: Lato, sans-serif;
+    border-radius: 8px;
+}
+.glass {
+    color: rgb(85, 90, 94);
+    font-size: 2.5em;
+    display: flex;
+    align-items: center; 
+    padding: 0px 30px;
+}
+body {
+    margin: 0;
+}

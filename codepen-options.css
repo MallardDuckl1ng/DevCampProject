@@ -1,0 +1,33 @@
+
+.options {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(85, 76, 76);
+}
+.option {
+    display: flex;
+    justify-content: center;
+}
+.text2 {
+    padding-left: 4px;
+    color: white;
+    font-family: Montserrat, sans-serif;
+    font-weight: 900;
+    font-size: 1.75em;
+}
+.text1 {
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-size: 1.25em;
+    display: flex;
+    align-items: center;
+}
+.option {
+    border: 3px solid;
+    border-color: rgb(180, 168, 168);
+    padding: 20px 75px;
+}
+.spacer {
+    height: 62px;
+    background-color: rgb(19, 19, 24);
+}
